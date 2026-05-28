@@ -1,0 +1,2 @@
+A-) Alfa, si ve los datos que se cargaron en el repositorio de GitHub.
+B-) Los demás aún no lo ven porque Alfa no lo cargó en el repositorio del grupo.
