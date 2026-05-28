@@ -1,2 +1,4 @@
 A-) Alfa, si ve los datos que se cargaron en el repositorio de GitHub.
 B-) Los demás aún no lo ven porque Alfa no lo cargó en el repositorio del grupo.
+C-) Si, si Beta agrega un archivo los demás integrantes si lo ven en el repositorio.
+D-) Nos comunicamos Discord entre Alfa, Beta y Gamma.
